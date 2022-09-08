@@ -21,3 +21,6 @@ https://github.com/mob-sakai/ParticleEffectForUGUI
 
 // AppLovin-MAX 插件  
 https://github.com/AppLovin/AppLovin-MAX-Unity-Plugin
+
+// MVVM UI框架
+https://github.com/vovgou/loxodon-framework
