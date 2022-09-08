@@ -17,4 +17,7 @@ I2 Localization
 Optimized ScrollView Adapter V5.1.2
 
 // 将粒子显示在UGUI上  
-ParticleEffectForUGUI: https://github.com/mob-sakai/ParticleEffectForUGUI
+https://github.com/mob-sakai/ParticleEffectForUGUI
+
+// AppLovin-MAX 插件  
+https://github.com/AppLovin/AppLovin-MAX-Unity-Plugin
