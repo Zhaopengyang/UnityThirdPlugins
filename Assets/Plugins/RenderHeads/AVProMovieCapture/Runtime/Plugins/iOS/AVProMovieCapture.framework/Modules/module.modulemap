@@ -1,0 +1,6 @@
+framework module AVProMovieCapture {
+  umbrella header "AVProMovieCapture.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,7 @@
+{
+    "name": "RenderHeads.AVProMovieCapture.Runtime",
+    "references": [ ],
+    "includePlatforms": [ ],
+    "excludePlatforms": [ ],
+    "allowUnsafeCode": true
+}
