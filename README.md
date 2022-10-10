@@ -16,6 +16,9 @@ I2 Localization
 // 滚动列表  
 Optimized ScrollView Adapter V5.1.2
 
+// SRDebugger1.12.1  
+SRDebugger_1_12_1.unitypackage
+
 // FFmpeg for Unity  提取码: kfps  
 https://pan.baidu.com/s/1esDwAuuQy8t5ayuIiqKaQg
 
