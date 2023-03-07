@@ -33,3 +33,6 @@ https://github.com/vovgou/loxodon-framework
 
 // 优化遮罩  
 https://github.com/mob-sakai/SoftMaskForUGUI
+
+// Newtonsoft.Json-for-Unity  
+https://github.com/jilleJr/Newtonsoft.Json-for-Unity
